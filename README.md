@@ -8,8 +8,8 @@
 ### 🌟 Current Focus
 
 - 📊 Developing **physics-informed neural networks (PINNs)**for material science
-- ⚡ Implementing algorithms to regulate electrostatic potentials in atomistic simulations (**Thermo-Potentiostat in CP2K**).
-- 🧠 Applying ML algorithms to materials property prediction and binding site energetics.
+- ⚡ Building Graph Neural Network for property prediction (organic molecules)
+- 🧠 Implementing algorithms to regulate electrostatic potentials in atomistic simulations (**Thermo-Potentiostat in CP2K**).
 
 ---
 
