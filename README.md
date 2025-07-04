@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Raheel Hammad
 
 🎓 **Ph.D. in Physics, TIFR Hyderabad**  
-🔬 Computational materials scientist and machine learning enthusiast working on bridging physics-based simulations with ML/AI for real-world materials discovery.
+🔬 Computational materials scientist working on bridging physics-based simulations with ML/AI for real-world materials discovery.
 
 ---
 
