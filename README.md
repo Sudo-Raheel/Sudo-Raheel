@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Raheel Hammad
-
+🛠️ **Senior Data Scientist at NPCI**  
 🎓 **Ph.D. in Physics, TIFR Hyderabad**  
 🔬 Computational materials scientist working on bridging physics-based simulations with ML/AI for real-world materials discovery.
 
@@ -7,7 +7,7 @@
 
 ### 🌟 Current Focus
 
-- 📊 Developing **physics-informed neural networks (PINNs)**for material science
+- 📊 Developing **physics-informed neural networks (PINNs)**for material science and fraud detection. 
 - ⚡ Building Graph Neural Network for property prediction (organic molecules)
 - 🧠 Implementing algorithms to regulate electrostatic potentials in atomistic simulations (**Thermo-Potentiostat in CP2K**).
 - 🧠 Implementing implicit solvation theory in CP2K.(**RISM-SCF**) 
@@ -18,7 +18,7 @@
 
 - **Languages:** Python, Fortran, Bash  
 - **Libraries:** PyTorch, Scikit-learn, Pymatgen, PyTorch Geometric  
-- **Simulation Tools:** VASP, CP2K, LAMMPS  
+- **Simulation Tools:** VASP, CP2K(Developer), LAMMPS  
 ---
 
 ### 🔬 Research Highlights
