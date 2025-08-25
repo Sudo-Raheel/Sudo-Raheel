@@ -10,6 +10,7 @@
 - 📊 Developing **physics-informed neural networks (PINNs)**for material science
 - ⚡ Building Graph Neural Network for property prediction (organic molecules)
 - 🧠 Implementing algorithms to regulate electrostatic potentials in atomistic simulations (**Thermo-Potentiostat in CP2K**).
+- 🧠 Implementing implicit solvation theory in CP2K.(**RISM-SCF**) 
 
 ---
 
