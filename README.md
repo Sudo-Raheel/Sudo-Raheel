@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Raheel Hammad
-🛠️ **Senior Data Scientist at NPCI**  
+🛠️ **Senior Associate(Data Science) at NPCI**  
 🎓 **Ph.D. in Physics, TIFR Hyderabad**  
 🔬 Computational materials scientist working on bridging physics-based simulations with ML/AI for real-world materials discovery.
 
